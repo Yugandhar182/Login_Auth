@@ -525,7 +525,7 @@ if (event && event.detail && event.detail.value) {
 	  margin-left: 550px;
 	  width: 500px;
 	 height: 200PX;
-	  margin-top:-310px;
+	  margin-top:20px;
     
 	}
 	.container{
